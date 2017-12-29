@@ -8,5 +8,6 @@ namespace Test_Class_Diagram_Use
 {
     public class Class1
     {
+        // change for test
     }
 }
